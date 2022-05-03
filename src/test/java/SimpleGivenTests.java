@@ -1,4 +1,6 @@
-/* import static org.junit.jupiter.api.Assertions.*; */
+/* import static org.junit.jupiter.api.Assertions.*
+Written by Professor David Taylor @ SJSU
+*/
 
 import static org.junit.Assert.*;
 
